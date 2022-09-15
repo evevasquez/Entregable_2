@@ -1,0 +1,197 @@
+
+*{
+  padding: 0px;
+  margin:0px;
+  
+}
+
+body {
+ background-color: #e9d5da;
+}
+
+ 
+ .footer-basic {
+    padding:50px 0;
+    background-color:#e9d5da;
+    color:#8fbdd3
+  }
+  
+  .footer-basic ul {
+    padding:0;
+    list-style:none;
+    text-align:center;
+    font-size:18px;
+    line-height:1.6;
+    margin-bottom:0;
+  }
+  
+  .footer-basic li {
+    padding:0 10px;
+  }
+  
+  .footer-basic ul a {
+    color:inherit;
+    text-decoration:none;
+    opacity:0.8;
+  }
+  
+  .footer-basic ul a:hover {
+    opacity:1;
+  }
+  
+  .footer-basic .social {
+    text-align:center;
+    padding-bottom:25px;
+  }
+  
+  .footer-basic .social > a {
+    font-size:24px;
+    width:40px;
+    height:40px;
+    line-height:40px;
+    display:inline-block;
+    text-align:center;
+    border-radius:50%;
+    border:1px solid #ccc;
+    margin:0 8px;
+    color:inherit;
+    opacity:0.75;
+  }
+  
+  .footer-basic .social > a:hover {
+    opacity:0.9;
+  }
+  
+  .footer-basic .copyright {
+    margin-top:15px;
+    text-align:center;
+    font-size:13px;
+    color:#aaa;
+    margin-bottom:0;
+  }
+
+  .banner{
+    margin: 0 auto;
+    width: 100%;
+    height: 440px;
+    border: 1px solid #000000;
+    border-radius: 0px;
+    background-color:#c7807f;
+    padding: 5px;
+}
+
+
+.eventos{
+  width: 100%;
+  height: 435px;
+  background-color:#ede6db;
+}
+
+
+.container_1{
+  margin-left:40px
+}
+
+.container2{
+  float: right;
+  margin-top: 10PX; 
+}
+
+.container_3{
+  margin-top: 50PX;
+}
+
+.EVENTO1{  
+  width: 500px;
+  height: 310px;
+  padding: 10px;
+  border: 1px solid rgba(4, 117, 169, 0.674);
+  margin: 20px;
+  }
+
+.EVENTO2{
+  width: 500px;
+  height: 280px;
+  padding: 10px;
+  border: 1px solid black;
+  margin: 20px;
+ }
+
+.EVENTO3{ 
+  width: 500px;
+  height: 360px;
+  padding: 10px;
+  border: 1px solid black;
+  margin: 20px;
+ }
+
+.EVENTO4{
+  background-color: #ab6261;
+  float: left;
+  width: 300px;
+  height: 400px;
+  padding: 10px;
+  border: 1px solid black;
+  margin: 20px;
+  margin-top: 25px;
+  margin-left: 250px;
+}
+
+.EVENTO5{
+  background-color: #ab6261;
+  float: left;
+  width: 300px;
+  height: 400px;
+  padding: 10px;
+  border: 1px solid black;
+  margin: 20px;
+  margin-top: 1px;
+  margin-left: 40px;
+}
+
+.EVENTO6{
+ background-color:#ab6261;
+ float: right;
+ width: 300px;
+ height: 400px;
+ padding: 10px;
+ border: 1px solid black;
+ margin: 20px;
+ margin-top: 1px;
+ margin-right: 250px;
+}
+
+.listaevento2{
+  text-align:justify;
+  background-color: aquamarine;
+}
+
+.imagencatastrofe{
+  width: 480px;
+  overflow: hidden;
+  height: 200px;
+}
+
+  
+#div_compra{
+  margin-top: 20px;
+  width: 500px;
+  height: 300px;
+  background-color: beige;
+  float: right
+}
+
+    /*#BOTON1{
+  border-radius: 5PX;
+  float:right;
+  padding: 19%;
+  }*/
+
+table.precios{
+  background-color: aqua;
+  text-align: justify;
+  width: 50px;
+  height: 25px;
+  margin: 10px black;
+}
+

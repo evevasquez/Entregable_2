@@ -1,0 +1,24 @@
+
+.contenedeor_eventos{
+  background-color:#ede6db;
+}
+.tabla_precios{
+    border: 3px solid black;
+    margin: 5px;
+}
+
+.tabla_precios th{
+    border: 3px solid black; 
+}
+.tabla_precios td{
+    border: 3px solid black;
+}
+
+.mano{
+    float: right;
+    width: 700px;
+    height: 400px;
+    margin-left: 500px;
+}
+
+
